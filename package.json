@@ -11,8 +11,7 @@
     "dev": "next dev",
     "build": "node scripts/markdownToJson.mjs && next build",
     "start": "next start",
-    "lint": "next lint",
-    "preinstall": "node preinstall.js"
+    "lint": "next lint"
   },
   "repository": {
     "type": "git",
